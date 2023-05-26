@@ -1,0 +1,13 @@
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\repository\TransacaoRepository.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\service\BancoService.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\service\impl\BancoServiceImpl.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\controller\BancoController.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\config\SwaggerConfig.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\entity\Cliente.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\util\CalcularTaxa.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\BancoApplication.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\entity\dto\ClienteDTO.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\entity\dto\TransacaoDTO.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\entity\Transacao.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\repository\BancoRepository.java
+C:\Users\vinic\OneDrive\Documentos\Santander2\banco\src\main\java\br\com\banco\util\GeradorDeConta.java
